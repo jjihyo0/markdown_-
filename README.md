@@ -18,6 +18,6 @@
 
 [고려대학교](www.korea.ac.kr)
 
-[고려대학교](https://korea.ac.kr/mbshome/mbs/university/index.do,"고려대학교 입니다")
+[고려대학교]((https://korea.ac.kr/mbshome/mbs/university/index.do),"고려대학교 입니다")
 
 ![대표이미지](./1.jpg)
