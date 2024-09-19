@@ -18,4 +18,4 @@
 
 [고려대학교](www.korea.ac.kr)
 
-[고려대학교](www.korea.ac.kr, "고려대학교입니다")
+[고려대학교](www.korea.ac.kr, "고려대학교 입니다")
